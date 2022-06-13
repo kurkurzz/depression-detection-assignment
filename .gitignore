@@ -1,2 +1,5 @@
 *.joblib
 __pycache__
+/.ipynb_checkpoints
+/Suicide_Detection.csv
+/Cleaned_Suicide_Detection.csv
